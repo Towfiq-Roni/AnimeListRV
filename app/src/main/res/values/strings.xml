@@ -1,0 +1,496 @@
+<resources>
+    <string
+        name="app_name">Anime List RV
+    </string>
+
+    <string-array name="anime_name">
+        <item>
+            1. Dragon Ball
+        </item>
+        <item>
+            2. Naruto
+        </item>
+        <item>
+            3. Rurouni Kenshin
+        </item>
+        <item>
+            4. Bleach
+        </item>
+        <item>
+            5. One Piece
+        </item>
+        <item>
+            6. Boku No Hero Academia
+        </item>
+        <item>
+            7. Kimetsu No Yaiba
+        </item>
+        <item>
+            8. Fairy Tail
+        </item>
+        <item>
+            9. Dr. Stone
+        </item>
+        <item>
+            10. Death Note
+        </item>
+        <item>
+            11. Cowboy Bebop
+        </item>
+        <item>
+            12. Assassination Classroom
+        </item>
+        <item>
+            13. One Punch Man
+        </item>
+    </string-array>
+
+    <string-array name="anime_status">
+        <item>
+            1. Ongoing
+        </item>
+        <item>
+            2. Finished
+        </item>
+        <item>
+            3. Finished
+        </item>
+        <item>
+            4. Finished
+        </item>
+        <item>
+            5. Ongoing
+        </item>
+        <item>
+            6. Ongoing
+        </item>
+        <item>
+            7. Ongoing
+        </item>
+        <item>
+            8. Finished
+        </item>
+        <item>
+            9. Ongoing
+        </item>
+        <item>
+            10. Finished
+        </item>
+        <item>
+            11. Finished
+        </item>
+        <item>
+            12. Finished
+        </item>
+        <item>
+            13. Ongoing
+        </item>
+    </string-array>
+
+    <string-array name="DB">
+        <item>
+            Dragon Ball
+        </item>
+        <item>
+            The Dragon Ball story takes place on Earth where Goku goes on adventures to find the
+            Dragon Balls, as well as aspiring to become a great fighter, and compete in multiple
+            martial arts tournaments. Goku later stops the evil Red Ribbon Army, then 3 years later,
+            thwarts the plans of Grand Demon King Piccolo for world conquest, afterwards he and his
+            friends protect the Earth from the Saiyan invasion. The setting also goes to Planet
+            Namek later on in the series for Bulma, Gohan, and Krillin to revive fallen
+            friends of Goku from the attack of Saiyans, where they encounter higher ups of Vegeta,
+            as well as the cosmic emperor, Freeza.
+        </item>
+        <item>
+            Release Date: April 26, 1989
+        </item>
+        <item>
+            Total Episodes: 835 (till date)
+        </item>
+        <item>
+            Main Characters: Goku, Bulma, Vegeta
+        </item>
+        <item>
+            Voice Acts: Masako Nozawa, Hiromi Tsuru, Ryo Horikawa
+        </item>
+        <item>
+            Company: Toei Animations
+        </item>
+    </string-array>
+
+    <string-array name="NRT">
+        <item>
+            Naruto
+        </item>
+        <item>
+            A powerful fox known as the Nine-Tails attacks Konoha, the hidden leaf village in the
+            Land of Fire, one of the Five Great Shinobi Countries in the Ninja World. In response,
+            the leader of Konoha and the Fourth Hokage, Minato Namikaze (with his wife Kushina
+            Uzumaki) seals the fox inside the body of his newborn son, Naruto Uzumaki, making
+            Naruto a host of the beast; this costs the life of the Father of Naruto, and the Third
+            Hokage returns from retirement to become leader of Konoha again. Naruto is often
+            ridiculed by the Konoha villagers for being the host of the Nine-Tails. Because of a
+            decree made by the Third Hokage forbidding anyone to mention these events, Naruto knows
+            nothing about the Nine-Tails until 12 years later, when Mizuki, a renegade ninja,
+            reveals the truth to Naruto. Naruto then defeats Mizuki in combat, earning the respect
+            of his teacher Iruka Umino.
+        </item>
+        <item>
+            Release Date: October 3, 2002
+        </item>
+        <item>
+            Total Episodes: 720
+        </item>
+        <item>
+            Main Characters: Naruto, Sasuke, Sakura
+        </item>
+        <item>
+            Voice Acts: Junko Takeuchi, Noriaki Sugiyama, Chie Nakamura
+        </item>
+        <item>
+            Company: Pierrot
+        </item>
+    </string-array>
+
+    <string-array name="RK">
+        <item>
+            Rurouni Kenshin
+        </item>
+        <item>
+            In the early Meiji era, after participating in the Bakumatsu war as the assassin
+            "Hitokiri Battōsai", Himura Kenshin wanders the countryside of Japan with a reverse
+            blade katana, offering protection and aid to those in need as atonement for the murders
+            he once committed. When arriving in Tokyo in the 11th year of Meiji (1878), he meets a
+            young woman named Kamiya Kaoru, who is in the middle of a fight with a murderer - who
+            claims to be the Hitokiri Battōsai - tarnishing the name of the swordsmanship school
+            that she teaches. Kenshin decides to help her and defeats the fake Battōsai. After
+            discovering that Kenshin is the real infamous assassin, Kaoru offers him a place to
+            stay at her dojo noting that he is peace-loving and not cold-hearted, as his reputation
+            implies. Kenshin accepts and begins to establish lifelong relationships with many
+            people such as Sagara Sanosuke, a former Sekihō Army member; Myōjin Yahiko, an orphan
+            from a samurai family who is also living with Kaoru as her student.
+        </item>
+        <item>
+            Release Date: January 10, 1996
+        </item>
+        <item>
+            Total Episodes: 95
+        </item>
+        <item>
+            Main Characters: Kenshin, Kaoru, Sanosuke, Yahiko
+        </item>
+        <item>
+            Voice Acts: Mayo Sukukaze, Miki Fujitani, Yuji Ueda, Miina Tominaga
+        </item>
+        <item>
+            Company: Studio Gallop
+        </item>
+    </string-array>
+
+    <string-array name="BLCH">
+        <item>
+            Bleach
+        </item>
+        <item>
+            In Karakura Town, a 15-year-old high school student Ichigo Kurosaki becomes a
+            substitute Soul Reaper when Rukia Kuchiki, a Soul Reaper, cannot fulfill her duties
+            after engaging in battle with a particularly powerful Hollow. Although initially
+            reluctant to accept the heavy responsibility, he begins eliminating Hollows in place of
+            Rukia and during this time discovers that several of his friends and classmates are
+            spiritually aware and have powers of their own: Uryu Ishida is a Quincy who can use
+            spirit particles, Orihime Inoue possesses a group of protective spirits known as the
+            Shun Shun Rikka and Yasutora Sado  has strength equal to the Hollows encased in his
+            tough right (and occasionally left) arm.
+        </item>
+        <item>
+            Release Date: October 5, 2004
+        </item>
+        <item>
+            Total Episodes: 366
+        </item>
+        <item>
+            Main Characters: Ichigo, Rukia
+        </item>
+        <item>
+            Voice Acts: Masakazu Morita, Fumiko Orikasa
+        </item>
+        <item>
+            Company: Pierrot
+        </item>
+    </string-array>
+
+    <string-array name="OP">
+        <item>
+            One Piece
+        </item>
+        <item>
+            The adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber
+            after unintentionally eating a Devil Fruit. With his crew of pirates, named the Straw
+            Hat Pirates, Luffy explores the Grand Line in search of the ultimate treasure of world
+            known as "One Piece" in order to become the next Pirate King.
+        </item>
+        <item>
+            Release Date: October 20, 1999
+        </item>
+        <item>
+            Total Episodes: 951 (till date)
+        </item>
+        <item>
+            Main Characters: Luffy, Zoro, Nami
+        </item>
+        <item>
+            Voice Acts: Mayumi Tanaka, Kazuya Nakai, Akemi Okamura
+        </item>
+        <item>
+            Company: Toei Animations
+        </item>
+    </string-array>
+
+    <string-array name="BNHA">
+        <item>
+            Boku No Hero Academia
+        </item>
+        <item>
+            Izuku Midoriya, a boy born without superpowers in a world where they are the norm, but
+            who still dreams of becoming a superhero himself, and is scouted by the greatest hero
+            of world who shares his powers with Izuku after recognizing his value and enrolls him
+            in a high school for heroes in training.
+        </item>
+        <item>
+            Release Date: April 3, 2016
+        </item>
+        <item>
+            Total Episodes: 88 (till date)
+        </item>
+        <item>
+            Main Characters: Midoriya, Bakugo, Ochako
+        </item>
+        <item>
+            Voice Acts: Daiki Yamashita, Nobuhiko Okamoto, Ayane Sakura
+        </item>
+        <item>
+            Company: Funimation
+        </item>
+    </string-array>
+
+    <string-array name="KNY">
+        <item>
+            Kimetsu No Yaiba
+        </item>
+        <item>
+            Tanjiro Kamado is a kind-hearted and intelligent boy who lives with his family in the
+            mountains. He has become sole source of income of his after the passing of his father,
+            making trips to the nearby village to sell charcoal. Everything changes when he comes
+            home one day to discover that his family has been attacked and slaughtered by a demon.
+            Tanjiro and his sister Nezuko are the sole survivors of the incident, with Nezuko being
+            transformed into a demon, but still surprisingly showing signs of human emotion and
+            thought. After an encounter with Giyu Tomioka, a demon slayer, Tanjiro is recruited by
+            Giyu to also become a demon slayer and begins his quest to help his sister turn human
+            again and avenge the deaths of the rest of his family.
+        </item>
+        <item>
+            Release Date: April 6, 2019
+        </item>
+        <item>
+            Total Episodes: 26 (till date)
+        </item>
+        <item>
+            Main Characters: Tanjiro, Nezuko
+        </item>
+        <item>
+            Voice Acts: Natsuki Hanae, Akari Kito
+        </item>
+        <item>
+            Company: Ufotable
+        </item>
+    </string-array>
+
+    <string-array name="FT">
+        <item>
+            Fairy Tails
+        </item>
+        <item>
+            The world of Earth-land is home to numerous guilds where wizards apply their magic for
+            paid job requests. Natsu Dragneel, a Dragon Slayer wizard from the Fairy Tail guild,
+            explores the Kingdom of Fiore in search of his missing adoptive father, the dragon
+            Igneel. During his journey, he befriends a young celestial wizard named Lucy Heartfilia
+            and invites her to join Fairy Tail. Lucy forms a team with Natsu and his cat-like
+            Exceed partner, Happy, which is joined by other guild members: Gray Fullbuster, an ice
+            wizard; Erza Scarlet, a magical knight; and Wendy Marvell and Carla, another Dragon
+            Slayer and Exceed duo. The team embark on numerous missions together, which include
+            subduing criminals, illegal dark guilds, and ancient Etherious demons created by Zeref,
+            a wizard cursed with immortality and deadly power.
+        </item>
+        <item>
+            Release Date: October 12, 2009
+        </item>
+        <item>
+            Total Episodes: 328
+        </item>
+        <item>
+            Main Characters: Natsu, Lucy
+        </item>
+        <item>
+            Voice Acts: Tetsuya Kakihara, Aya Hirano
+        </item>
+        <item>
+            Company: A-1 Pictures
+        </item>
+    </string-array>
+
+    <string-array name="DS">
+        <item>
+            Dr. Stone
+        </item>
+        <item>
+            Beginning in April 5738 A.D., it has been over 3,700 years since a mysterious flash of
+            light petrified nearly all human life. A 16-year-old genius named Senku Ishigami is
+            suddenly revived to find himself in a world where all traces of human civilization have
+            been eroded by time. Senku sets up a base-camp and begins to study the petrified humans
+            in order to determine the cause of the event, as well as a cure.
+        </item>
+        <item>
+            Release Date: July 5, 2019
+        </item>
+        <item>
+            Total Episodes: 24 (till date)
+        </item>
+        <item>
+            Main Characters: Senku, Taiju, Yuzuriha
+        </item>
+        <item>
+            Voice Acts: Yusuke Kobayashi, Makoto Furukawa, Kana Ichinose
+        </item>
+        <item>
+            Company: TMS/8PAN
+        </item>
+    </string-array>
+
+    <string-array name="DN">
+        <item>
+            Death Note
+        </item>
+        <item>
+            In Tokyo, an intelligent yet disaffected high-school student named Light Yagami finds
+            the "Death Note", a mysterious black notebook which can kill anyone as long as the user
+            knows both the name and face of the targets. After verifying that the notebook works and
+            initially being terrified of its god-like abilities, Light begins to consider the
+            possibilities of the Death Note abilities and sets out to create a utopian world
+            without crime, killing numerous high-profile Japanese criminals, before eventually
+            targeting international criminals and felons around the world. Five days after
+            discovering the notebook, Light is visited by Ryuk, a "Shinigami", beings inspired by
+            the Japanese god of death and the previous owner of Death Note. Ryuk, who is invisible
+            to anyone who has not touched the Death Note, reveals that he dropped the notebook into
+            the human world out of boredom and is amused by the actions of Light.
+        </item>
+        <item>
+            Release Date: October 3, 2006
+        </item>
+        <item>
+            Total Episodes: 37
+        </item>
+        <item>
+            Main Characters: Light, L
+        </item>
+        <item>
+            Voice Acts: Mamoru Miyano, Kappei Yamaguchi
+        </item>
+        <item>
+            Company: Mad House
+        </item>
+    </string-array>
+
+    <string-array name="CB">
+        <item>
+            Cowboy Bebop
+        </item>
+        <item>
+            In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth
+            almost uninhabitable, humanity has colonized most of the rocky planets and moons of the
+            Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a
+            legalized contract system, in which registered bounty hunters (also referred to as
+            "Cowboys") chase criminals and bring them in alive in return for a reward. The series
+            protagonists are bounty hunters working from the spaceship Bebop.
+        </item>
+        <item>
+            Release Date: April 3, 1998
+        </item>
+        <item>
+            Total Episodes: 26
+        </item>
+        <item>
+            Main Characters: Jet, Spike, Faye, Edward
+        </item>
+        <item>
+            Voice Acts: Unsho Ishizuka, Koichi Yamadera, Megumi Hayashibara, Aoi Tada
+        </item>
+        <item>
+            Company: Sunrise
+        </item>
+    </string-array>
+
+    <string-array name="AC">
+        <item>
+            Assassination Classroom
+        </item>
+        <item>
+            Earth is left in jeopardy after an immensely powerful tentacled creature suddenly
+            appears and destroys 70% of the moon, leaving it permanently in the shape of a crescent.
+            The organism claims that within a year he will destroy the planet next, but offers
+            mankind a chance to avert this fate. In class 3-E, the End Class of Kunugigaoka Junior
+            High School, he starts working as a homeroom teacher where he teaches his students
+            regular subjects, as well as the ways of assassination. The Japanese government
+            promises a reward of ¥10 billion to whoever among the students succeeds in killing the
+            organism, whom they have named "Koro-sensei" . However, this proves to be a highly
+            unachievable task, as not only does he have several superpowers at his disposal,
+            including accelerated regeneration, visual cloning, an invincible form, and the ability
+            to move and fly at Mach 20, but he is also the best teacher they could ask for, helping
+            them to improve their grades, individual skills, and prospects for the future.
+        </item>
+        <item>
+            Release Date: January 9, 2015
+        </item>
+        <item>
+            Total Episodes: 47
+        </item>
+        <item>
+            Main Characters: Koro, Nagisa, Karma
+        </item>
+        <item>
+            Voice Acts: Jun Fukuyama, Mai Fuchigami, Nobuhiko Okamoto
+        </item>
+        <item>
+            Company: Funimation
+        </item>
+    </string-array>
+
+    <string-array name="OPM">
+        <item>
+            One Punch Man
+        </item>
+        <item>
+            On a supercontinent Earth, powerful monsters and villains have been wreaking havoc in
+            the cities. In response, the millionaire Agoni creates the Hero Association, which
+            employs superheroes to fight evil. Saitama, an unassociated hero, hails from City Z and
+            performs heroic deeds for his own enjoyment. He has trained himself to the point of
+            being able to defeat any enemy with a single punch, but his unmatched strength has left
+            him with an overwhelming sense of boredom.
+        </item>
+        <item>
+            Release Date: December 4, 2015
+        </item>
+        <item>
+            Total Episodes: 24 (till date)
+        </item>
+        <item>
+            Main Characters: Saitama, Genos
+        </item>
+        <item>
+            Voice Acts: Makoto Furukawa, Kaito Ishikawa
+        </item>
+        <item>
+            Company: Mad House
+        </item>
+    </string-array>
+
+</resources>
